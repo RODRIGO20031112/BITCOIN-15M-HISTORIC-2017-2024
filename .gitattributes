@@ -1,4 +1,0 @@
-*.py linguist-language=Python
-*.sh linguist-language=Shell
-*.tex linguist-language=TeX
-*.sql linguist-language=SQL
