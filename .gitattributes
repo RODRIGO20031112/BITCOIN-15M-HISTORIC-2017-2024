@@ -1,2 +1,1 @@
-*.xsl linguist-vendored
-*.csv linguist-vendored
+.github/fsharp-custom-action/** -linguist-vendored
